@@ -11,19 +11,20 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
+url: chrisyin.com/
 # baseurl: /sustain/
 title: Chris Yin
 author: Chris Yin
 description: Personal blog
 avatar: profile.png
 email: christopher.e.yin@gmail.com
-github: chriseyin # username
 twitter: chriseyin
 linkedin: chrisyin
-stackoverflow: chriseyin   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus 
-disqus: chriseyin
+instagram: chriseyin
+facebook: chriseyin
+tumblr: chriseyin
+# Comment out if you don't want disqus 
+disqus: chrisyin
 google_analytics: UA-35234352-1
 
 
