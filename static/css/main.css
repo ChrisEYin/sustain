@@ -164,6 +164,12 @@ body {
   font-size: 18px;
 }
 
+.blogpost img {
+  max-width: 100%;
+  height: auto;
+}
+}
+
 /* Footer 
 -------------------------------------------------- */
 
