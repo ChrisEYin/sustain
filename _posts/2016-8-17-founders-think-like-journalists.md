@@ -40,8 +40,6 @@ And what makes a good investigative journalist:
 * Good contacts throughout society
 * Courage to withstand threats from people you are investigating
 
-</br>
-
 Sounds very much like a founder looking for an idea. Or an investor looking for a promising investment. Maybe that’s why so may [journalists are becoming investors](https://pando.com/2015/04/03/whats-it-take-for-a-tech-journalist-to-become-a-successful-venture-capitalist/).
 
 So to apply this — the job of an early stage founder is analogous to that of an investigative journalist. Less about looking for a problem to solve, more about discovering an important truth and building on top of that.

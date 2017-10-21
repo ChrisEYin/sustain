@@ -22,6 +22,18 @@ layout: layout
 			<div class="blogpost">
 			  {{ content }}
 			   <hr>
+			   <!-- Older / New posts -->
+			   <div style="text-align:center">
+    		     {% if page.previous %}
+                   <a {% if page.previous %}href="{{ page.previous.url }}"{% endif %}>← Older</a>
+                 {% endif %}
+                 {% if page.next %}
+                 |
+                   <a {% if page.next %}href="{{ page.next.url }}"{% endif %}>Newer →</a>
+                 {% endif %}
+               </div>
+               <hr>
+               <!-- Related Posts -->
 			   <div class="related-posts">
 				   <h5>Related Posts</h5>
 				   {% for post in site.related_posts limit:3 %}

@@ -75,11 +75,11 @@ In his book, he refers to the drawing below, the black box. The idea is that you
 
 And how does this relate to a startup? The black box above clearly has 3 elements — the input, the machine, and the output. If we think about your startup as a black box, it’s easier to identify and focus on what matters.
 
-*Input → People  
+* Input → People  
 
-*Machine → Org Structure  
+* Machine → Org Structure  
 
-*Output → Results  
+* Output → Results  
 
 So once you hit PMF, shift your mind state and start to see yourself as the steward of the black box that is your startup. Your job is to continually focus on the 3 things listed above — people, org structure, results and make sure all of those pieces are working at full throttle.
 > “Founders should think of their company as a product and build it and shape it with the same passion and care.”
