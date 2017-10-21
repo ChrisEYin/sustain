@@ -79,7 +79,7 @@ Some additional reading about PM from some smart people :) --
 
 [Be a Great Product Leader - Adam Nash](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/)
 
-[PM at Microsoft - Steven Sinofsky] (http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx)
+[PM at Microsoft - Steven Sinofsky](http://blogs.msdn.com/b/techtalk/archive/2005/12/16/504872.aspx)
 
 [Art of Decision Making as a PM - Sachin Rekhi](http://www.sachinrekhi.com/blog/2013/03/18/the-art-of-decision-making-as-a-product-manager)
 

@@ -8,7 +8,7 @@ tags:
  - product
 ---
 
-I remember telling a friend some time ago what I thought the job of a product manager was. I said —
+I remember telling a friend some time ago what I thought the job of a product manager was. I said:
 
 > “Being a PM is about discovering and propagating truth.”
 
