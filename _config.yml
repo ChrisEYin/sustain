@@ -3,7 +3,7 @@ highlighter: rouge
 markdown: kramdown
 rdiscount:
   extensions: [smart]
-permalink: /:year/:month/:day/:title/
+permalink: pretty
 paginate: 5
 gems: [jekyll-paginate]
 port: 3000
@@ -11,8 +11,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: www.chrisyin.com/
-# baseurl: /sustain/
+url: chrisyin.com
+baseurl: /
 title: Chris Yin
 author: Chris Yin
 description: Personal blog
