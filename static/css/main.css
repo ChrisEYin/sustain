@@ -84,6 +84,12 @@ body {
   }
 }
 
+.navbar-center {
+  text-align: center;
+  display: inline-block;
+  float: none;
+}
+
 /* Custom page CSS
 -------------------------------------------------- */
 
