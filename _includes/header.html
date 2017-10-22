@@ -5,13 +5,28 @@
     </div>-->
     <div id="navbar">
       <ul class="nav navbar-nav navbar-center">
-        <li><a href="{{ site.baseurl }}">HOME</a></li>
-        <li><a href="{{ site.baseurl }}about">ABOUT</a></li>
-        <li><a href="{{ site.baseurl }}blog">BLOG</a></li>
-        <li><a href="{{ site.baseurl }}quotes">QUOTES</a></li>
-        <li><a href="{{ site.baseurl }}principles">PRINCIPLES</a></li>
-        <li><a href="{{ site.baseurl }}codexvitae">CODEX VITAE</a></li>
+        {% if page.url != "/" %}
+          <li><a href="{{ site.baseurl }}">HOME</a></li>
+        {% endif %}
+        {% if page.url != "/about/" %}
+          <li><a href="{{ site.baseurl }}about">ABOUT</a></li>
+        {% endif %}
+        {% if page.url != "/blog/" %}
+          <li><a href="{{ site.baseurl }}blog">BLOG</a></li>
+        {% endif %}
+        {% if page.url != "/quotes/" %}
+          <li><a href="{{ site.baseurl }}quotes">QUOTES</a></li>
+        {% endif %}
+        {% if page.url != "/principles/" %}
+          <li><a href="{{ site.baseurl }}principles">PRINCIPLES</a></li>
+        {% endif %}
+        {% if page.url != "/codexvitae/" %}
+          <li><a href="{{ site.baseurl }}codexvitae">CODEX VITAE</a></li>
+        {% endif %}
       </ul>
     </div>
   </div>
 </nav>
+
+
+ 
