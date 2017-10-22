@@ -1,5 +1,5 @@
 ---
-title: Book Notes - Made to Stick
+title: Made to Stick
 subtitle: A storytelling framework from the NY Times Bestseller by Chip & Dan Heath.
 layout: post
 tags:
