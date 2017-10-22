@@ -183,7 +183,7 @@ body {
 
 .blogpost a {
   text-decoration:none;
-  border-bottom: 2px solid;
+  border-bottom: 1.5px solid;
   transition:all 0.2s ease;
 }
 
@@ -197,7 +197,7 @@ body {
 
 .hometext a {
   text-decoration:none;
-  border-bottom: 2px solid;
+  border-bottom: 1.5px solid;
   transition:all 0.2s ease;
 }
 
