@@ -5,6 +5,10 @@ tags:
 - code
 ---
 
+*Update: I'm using a [different implementation](http://127.0.0.1:3000/2017/10/20/updated-jekyll-related-posts/) now after upgrading to Jekyll 3.4.3.*
+
+<hr>
+
 Spent some time this weekend trying to implement 'Related Posts' onto my blog. Wasn't hard, but also wasn't as straight forward as I expected.
 
 [Jekyll's documentation](http://jekyllrb.com/docs/configuration/) is pretty light and wasn't really helpful for related posts. Also, [general sentiment](http://charliepark.org/tags-in-jekyll/) [on the internet](http://techtinkering.com/2011/08/17/improving-related-posts-on-jekyll/) is that Jekyll's existing related posts function is subpar.
