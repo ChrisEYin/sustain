@@ -105,7 +105,7 @@ body {
   color: #ff6726;
 }
 .container a:hover {
-  color: #c14e1d;
+  color:#c14e1d
 }
 .img-responsive {
  display: block;
@@ -179,6 +179,31 @@ body {
   height: auto;
   margin: auto;
   display: block;
+}
+
+.blogpost a {
+  text-decoration:none;
+  border-bottom: 2px solid;
+  transition:all 0.2s ease;
+}
+
+.blogpost a:hover {
+  color:lighten(#ff6726, 50%);
+  text-decoration:none;
+  background-color:#ff9e74;
+}
+
+.hometext a {
+  text-decoration:none;
+  border-bottom: 2px solid;
+  transition:all 0.2s ease;
+}
+
+.hometext a:hover {
+  color:lighten(#ff6726, 50%);
+  text-decoration:none;
+  background-color:#ff9e74;
+  border-bottom: none;
 }
 
 /* Footer 
