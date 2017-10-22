@@ -14,7 +14,7 @@ tags:
  - tv
 ---
 
-[David Lynch](https://en.wikipedia.org/wiki/David_Lynch) has been described as "the most important director of this era". He’s created award winning movies & shows like [Blue Velvet](https://www.rottentomatoes.com/m/blue_velvet/), [Mulholland Drive](https://www.rottentomatoes.com/m/mulholland_dr/), [Inland Empire](https://www.rottentomatoes.com/m/inland_empire/), [Twin Peaks](https://www.rottentomatoes.com/tv/twin_peaks) and more. He’s not only a celebrated producer & director, but also a recognized painter, musician, designer and writer. 
+[David Lynch](https://en.wikipedia.org/wiki/David_Lynch) has been described as "the most important director of this era". He’s created award winning movies & shows like [Blue Velvet](https://www.rottentomatoes.com/m/blue_velvet/), [Mulholland Drive](https://www.rottentomatoes.com/m/mulholland_dr/), [Inland Empire](https://www.rottentomatoes.com/m/inland_empire/), [Twin Peaks](https://www.rottentomatoes.com/tv/twin_peaks) and more. He’s not only a celebrated producer & director, but also a recognized painter, musician, designer and writer.
 
 I recently picked up and read through David’s book [Catching the Big Fish](https://www.amazon.com/dp/B0024NP55G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) on creativity, transcendental meditation, and a variety of other topics.  The book is a collection of dozens of short articles written about various topics. Some of my favorite passages:
 
