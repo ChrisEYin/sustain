@@ -4,7 +4,9 @@ title: Quotes
 ---
 
 <div class="container">
-<h3>Quotes</h3>
+  <h3>
+  	<strong><a href="{{ page.url }}">Quotes</a></strong>
+  </h3>
   <div class="hometext">
     <div class="panel panel-default">
       <div class="panel-body">
