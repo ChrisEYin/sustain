@@ -6,6 +6,7 @@ rdiscount:
 permalink: pretty
 paginate: 5
 gems: [jekyll-paginate]
+emoji_dir: ./images/emoji
 port: 3000
 safe: true
 
