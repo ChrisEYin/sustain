@@ -34,9 +34,24 @@ layout: layout
                </div>
                <hr>
                <!-- Related Posts -->
+               {% assign posts_list = "" | split: "|" %}
+
+               {% if page.tags %}
+                 {% for each_tag in page.tags %}
+                   {% for each_post in site.tags[each_tag] %}
+                     {% if each_post.title != page.title %}
+                       {% assign posts_list = posts_list | push: each_post %}
+                     {% endif %}
+                   {% endfor %}
+                 {% endfor %}
+                 {% assign posts_list = posts_list | uniq %}
+               {% else %}
+                 {% assign posts_list = site.posts %}
+               {% endif %}
+
 			   <div class="related-posts">
 				<h5>Related Posts</h5>
-				   {% for post in site.related_posts limit:5 %}
+				   {% for post in posts_list limit:5 %}
 						<div class="row">
 							 <div class="col-sm-4 col-md-4 col-lg-4">
 								 <h6 style="text-align: right">
@@ -56,3 +71,5 @@ layout: layout
 	</div>
 	{% include disqus.html %}
 </div>
+
+
