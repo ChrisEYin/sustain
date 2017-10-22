@@ -33,6 +33,18 @@ title: Quotes
 			  </h5>
 			</div>
 			<!-- End Quote Block --> 
+			<!-- Quote Block --> 
+		    <div class="col-sm-4 col-md-4 col-lg-4">
+			  <h5 style="text-align: right; color: #A0A0A0;">
+			    Rita Mae Brown
+		      </h5>
+			</div>
+		    <div class="col-sm-8 col-md-8 col-lg-8">
+		      <h5 style="text-align: left">
+			    "Good judgement comes from experience. And experience comes from bad judgement."
+			  </h5>
+			</div>
+			<!-- End Quote Block --> 
             <!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
 			  <h5 style="text-align: right; color: #A0A0A0;">
@@ -54,18 +66,6 @@ title: Quotes
 		    <div class="col-sm-8 col-md-8 col-lg-8">
 		      <h5 style="text-align: left">
 			    "Vision without execution is hallucination."
-			  </h5>
-			</div>
-			<!-- End Quote Block --> 
-		    <!-- Quote Block --> 
-		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
-			    Rita Mae Brown
-		      </h5>
-			</div>
-		    <div class="col-sm-8 col-md-8 col-lg-8">
-		      <h5 style="text-align: left">
-			    "Good judgement comes from experience. And experience comes from bad judgement."
 			  </h5>
 			</div>
 			<!-- End Quote Block --> 
