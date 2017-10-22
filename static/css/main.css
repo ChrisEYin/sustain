@@ -191,6 +191,8 @@ body {
   color:lighten(#ff6726, 50%);
   text-decoration:none;
   background-color:#ff9e74;
+  border-bottom: none;
+
 }
 
 .hometext a {
