@@ -5,7 +5,7 @@ tags:
 - code
 ---
 
-*Update: I'm using a [different implementation](http://127.0.0.1:3000/2017/10/20/updated-jekyll-related-posts/) now after upgrading to Jekyll 3.4.3.*
+*Update: I'm using a [different implementation](/2017/10/20/updated-jekyll-related-posts/) now after upgrading to Jekyll 3.4.3.*
 
 <hr>
 
