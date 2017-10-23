@@ -13,7 +13,7 @@ title: Quotes
 		  <div class="row">
 		  	<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Mahatma Gandhi
 		      </h5>
 			</div>
@@ -25,7 +25,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Frank Chimero
 		      </h5>
 			</div>
@@ -37,7 +37,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Rita Mae Brown
 		      </h5>
 			</div>
@@ -49,7 +49,7 @@ title: Quotes
 			<!-- End Quote Block --> 
             <!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    African proverb
 		      </h5>
 			</div>
@@ -61,7 +61,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Thomas Edison
 		      </h5>
 			</div>
@@ -73,7 +73,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 		    <!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Andy Grove
 		      </h5>
 			</div>
@@ -85,7 +85,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 		    <!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Winston Churchill
 		      </h5>
 			</div>
@@ -97,7 +97,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Mahatma Gandhi
 		      </h5>
 			</div>
@@ -109,7 +109,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Ivy Baker Priest
 		      </h5>
 			</div>
@@ -121,7 +121,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Ray Dalio
 		      </h5>
 			</div>
@@ -133,7 +133,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Ben Horowitz
 		      </h5>
 			</div>
@@ -145,7 +145,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Paul Graham
 		      </h5>
 			</div>
@@ -157,7 +157,7 @@ title: Quotes
 			<!-- End Quote Block --> 
 			<!-- Quote Block --> 
 		    <div class="col-sm-4 col-md-4 col-lg-4">
-			  <h5 style="text-align: right; color: #A0A0A0;">
+			  <h5 style="text-align: right; color: #BEBEBE;">
 			    Napoleon Hill
 		      </h5>
 			</div>
