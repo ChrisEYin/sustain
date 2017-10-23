@@ -13,4 +13,6 @@ I'm now in the early stags of building out [Chime](http://www.meetchime.com/) an
 
 Thanks for stopping by!
 
-*Last updated: October 21st, 2017*
+--
+
+<h6><i>Last updated: October 21st, 2017</i></h6>

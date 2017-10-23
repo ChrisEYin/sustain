@@ -17,7 +17,8 @@ The backstory behind this page is [here](/2017/09/30/codex-vitae/). This is mode
 1. Read this with the understanding that you are different than me — the way I live my life is not the way you should live yours.
 2. Consider creating your own Codex Vitae. Feel free to copy anything here that is helpful.  
 
-*Last Updated: September 30th, 2017*
+
+<h6><i>Last updated: September 30th, 2017</i></h6>
 
 <hr>
 
