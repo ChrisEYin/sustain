@@ -190,7 +190,7 @@ body {
 .blogpost a:hover {
   color:lighten(#7947cb, 50%);
   text-decoration:none;
-  background-color:#a483dc;
+  background-color:#c1abe7;
   border-bottom: none;
 
 }
@@ -204,7 +204,7 @@ body {
 .hometext a:hover {
   color:lighten(#7947cb, 50%);
   text-decoration:none;
-  background-color:#a483dc;
+  background-color:#c1abe7;
   border-bottom: none;
 }
 
