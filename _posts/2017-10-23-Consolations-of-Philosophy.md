@@ -33,7 +33,7 @@ To form an independent thought, he suggests taking any argument and imagining th
 
 > In writing a problem down or airing it in conversation we let its essential aspects emerge. And by knowing its character, we remove, if not the problem itself, then its secondary, aggravating characteristics: confusion, displacement, surprise.
 
-[Epicurus](https://en.wikipedia.org/wiki/Epicurus) was a man who optimized his life for his version of happiness. One of his principles for a happy life was to spend time in thought. And in his view, writing is an important tool to help one truly think through problems deeply. 
+[Epicurus](https://en.wikipedia.org/wiki/Epicurus) was a man who optimized his life for his version of happiness. One of his principles for a happy life was to spend time in thought. And in his view, writing was an important tool to help one truly think deeply through problems. 
 
 Anytime I hit a problem or need to think through something, my solution is always to start by writing down the problem and my train of thought. It helps structure my thoughts process, pull out any assumptions, biases, etc. Writing clarifies, adds objectivity, and helps make better decisions. 
 
