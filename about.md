@@ -9,7 +9,7 @@ A little about myself -- I grew up in a small town in the Bay Area and moved dow
 
 After finshing up school, I helped start a [services firm](http://bespokepartners.com/) and joined my friend [Parand](https://twitter.com/parand) at his startup, [Xpenser](http://xpenser.com/). In 2013, we were [acquired by Coupa](http://www.xconomy.com/san-diego/2013/04/18/acquired-or-acq-hired-xpenser-adds-expertise-to-coupas-web-services/) and we joined to help them build out a new business unit. I ended up as lead PM for our [Expenses](https://venturebeat.com/2016/01/28/coupas-expense-management-solution-receives-highest-score-for-proficiency/), [Inventory](https://finance.yahoo.com/news/coupa-software-unveils-inventory-application-120000580.html), and [Mobile](https://www.paystreamadvisors.com/2015-paystream-innovate-award-winners-announced/) products.
 
-I'm now investing in early stage companies statups and I'm an investor/advisor in [HiOperator](https://hioperator.com/), [Retool](https://retool.in/), [Arternal](https://arternal.com/), [Bid Ops](http://www.bid-ops.com/), [ADI](https://getecoqube.com/), and [Ocean Hugger Foods](https://oceanhuggerfoods.com/). Always looking for great new people & startups to meet with, so [ping me](https://twitter.com/chriseyin/) anytime!
+I'm now investing in early stage companies statups and I'm an investor/advisor in [Elliot](https://www.helloiamelliot.com/), [Retool](https://retool.in/), [HiOperator](https://hioperator.com/), [Arternal](https://arternal.com/), [Bid Ops](http://www.bid-ops.com/), [ADI](https://getecoqube.com/), and [Ocean Hugger Foods](https://oceanhuggerfoods.com/). Always looking for great new people & startups to meet with, so [ping me](https://twitter.com/chriseyin/) anytime!
 
 Thanks for stopping by!
 
