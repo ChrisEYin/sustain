@@ -13,15 +13,17 @@ tags:
  - mlb
 ---
 
-I think there’s a lot we can learn in venture from hollywood. The more time I spend with founders & VC’s, the more I realize that the two businesses are closely tied together (in principle).
+I think there’s a lot we can learn in venture from hollywood. The more time I spend with founders & VC’s, the more I realize that the two businesses are closely related.
 
-The core of the book is explaining why the blockbuster effect works and how to play the game. The core theme is that Hollywood is largely driven off of Blockbusters — big concentrated winners. 
+So I recently read [Blockbusters](https://www.amazon.com/Blockbusters-Hit-making-Risk-taking-Business-Entertainment/dp/B00JV50YUG/ref=pd_cp_14_4?_encoding=UTF8&psc=1&refRID=0M0R8K4V2K1H5SJ2W3A7). To be honest this is one of those books that should be a blog post. It makes a few interesting points, and then proceeds to beat you over the head with examples.
 
-> One of the essential lessons - the surest way to lasting success in show business is to bet heavily on likely blockbusters and spending considerably less on the “also rans” is the surest way to lasting success in show business.
+The core of the book is that Hollywood is largely driven off blockbusters, or big concentrated wins. All the revenue in the business comes from a few big winners, and everything else is done in service of these winners. 
 
-Just like venture, the game is highly concentrated. 99% of returns come from just 1-2 investments, and everything else fails. The cost of missing a big winner is much greater than the cost of losing money on a few smaller deals. 
+> One of the essential lessons - the surest way to lasting success in show business - is to bet heavily on likely blockbusters and spending considerably less on the “also rans” is the surest way to lasting success in show business.
 
-So the obvious next question is — is the game is based on making money on big blockbusters, why do anything but those? Why not just make a few movies per year and focus all your energy on those? Despite that being super risky, it helps  —
+Just like venture, the game is highly concentrated. The [vast majority of returns](https://techcrunch.com/2017/06/01/the-meeting-that-showed-me-the-truth-about-vcs/) come from a handful of deals. The cost of missing a big winner is much greater than the cost of losing money on a few smaller deals. 
+
+So the obvious next question is — why do anything but blockbuster type deals? Why not just focus on making a few large movies per year and the ignore the smaller films?
 
 > Smaller bets can also help a media producer “fill the pipeline,” thereby keeping companies that help sell the producer’s output satisfied. For example, a book publisher that delivers a steady stream of new titles to the market will find it easier to build and maintain relationships with retailers.
 
