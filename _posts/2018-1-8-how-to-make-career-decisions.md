@@ -4,6 +4,19 @@ layout: post
 tags:
  - career
  - fulfillment
+ - marcandreessen
+ - benhorowitz
+ - reidhoffman
+ - regretminimization
+ - jeffbezos
+ - hunterwalk
+ - bradfeld
+ - network
+ - sizhaoyang
+ - title
+ - compensation
+ - job
+ - jobs
 ---
 
 I remember a coffee meeting with a founder who told me that she was surprised at how lucky I've gotten in my career so far. And it's true -- I've definitely been very lucky. From first meeting Parand, to him letting me join Xpenser, getting acquired by Coupa, and ultimately Coupa going public. 
