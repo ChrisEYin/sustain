@@ -95,7 +95,7 @@ body {
 
 .container {
   width: auto;
-  max-width: 800px;
+  max-width: 650px;
   text-align: center;
 }
 .container .text-muted {
