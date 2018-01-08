@@ -49,7 +49,7 @@ Running through these questions helped me narrow down and focus on a path that I
 
 So the tl;dr - run through the 2nd list of questions to help decide on ideal career path / avenue, and then use the 1st list to help choose between options within that arena. And in closing, a recent tweet storm from [Sizhao Yang](https://twitter.com/zaoyang) that I really liked and echoed many of my own thoughts. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">1/ Everyone makes pros and con list to make decisions but they only take into account the first order effects or short term effects. The best decisions take advantage of embedded optionalities. It allows a hidden compounding that provides exposure to positive black swans. <a href="https://t.co/vdgvVkzA6Z">https://t.co/vdgvVkzA6Z</a></p>&mdash; Sizhao Yang (@zaoyang) <a href="https://twitter.com/zaoyang/status/949706485742714881?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
+<blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">1/ Everyone makes pros and con list to make decisions but they only take into account the first order effects or short term effects. The best decisions take advantage of embedded optionalities. It allows a hidden compounding that provides exposure to positive black swans. <a href="https://t.co/vdgvVkzA6Z">https://t.co/vdgvVkzA6Z</a></p>&mdash; Sizhao Yang (@zaoyang) <a href="https://twitter.com/zaoyang/status/949706485742714881?ref_src=twsrc%5Etfw">January 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
