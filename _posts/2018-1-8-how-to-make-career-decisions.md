@@ -35,7 +35,7 @@ So I did a bit of reading and compiled some general career advice. Below is a co
 * Take intelligent risk that will give you a competitive edge
 * Use the regret minimization framework to help with seemingly illogical decisions
 
-This list was helpful, but I found it to be incomplete. When thinking about potential career avenues, I found it tough to score the things I was thinking about. My list was too broad -- I was trying to decide between entirely different fields and there were several very compelling paths that led towards a similar end state. 
+This list was helpful, but I found it to be incomplete. When I was going through my career options, I found it tough to score each one against these points. My list was too broad -- I was trying to decide between entirely different fields and there were several very compelling paths that led towards a similar end state. 
 
 The problem was that I was thinking too high level. I had to narrow scope and first decide between these different paths. So I wrote down and thought through a few high level questions that helped me narrow down the path I wanted to take. 
 
