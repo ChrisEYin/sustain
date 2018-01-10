@@ -27,6 +27,9 @@ tumblr: chriseyin
 disqus: chrisyin
 google_analytics: UA-35234352-1
 
+algolia:
+  application_id: '2CQ22XRW9R'
+  index_name:     'sustain_blog'
 
 # needed for travis-ci build
 exclude: [vendor]
