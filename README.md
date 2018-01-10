@@ -7,6 +7,6 @@ _posts/
 images/
 ```
 
----
+----
 
 Based on theme by [Sustain](https://github.com/biomadeira/sustain).

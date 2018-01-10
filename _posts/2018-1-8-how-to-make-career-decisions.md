@@ -24,6 +24,8 @@ tags:
  - sizhaoyang
 ---
 
+DOES TRAVIS OR ALGOLIA CATCH THIS
+
 I remember a coffee meeting with a founder who told me that she was surprised at how lucky I've gotten in my career so far. And it's true -- I've definitely been very lucky. From first meeting Parand, to him letting me join Xpenser, getting acquired by Coupa, and ultimately Coupa going public. 
 
 It got me thinking -- how much of what I've done is a result of hard work + luck vs. just pure luck? It's dangerous [to confuse luck & skill](https://www.wired.com/2012/11/luck-and-skill-untangled-qa-with-michael-mauboussin/), and so I wanted to better tease this out to help me make better decisions, especially as it relates to my career. 
