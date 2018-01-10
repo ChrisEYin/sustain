@@ -24,13 +24,16 @@ const hitTemplate = function(hit) {
   if (hit.date) {
     date = moment.unix(hit.date).format('MMM D, YYYY');
   }
+  const url = hit.url;
+  const title = hit._highlightResult.title.value;
+  const content = hit._highlightResult.html.value;
 
   return `
     <div class="row">
       <div class="col-sm-4 col-md-4 col-lg-4"><h5 style="text-align: right">${hit.date}</h5></div>
       <div class="col-sm-8 col-md-8 col-lg-8">
-        <h5 style="text-align: left"><a href="{{ site.baseurl }}${hit.url}">${hit.title}</a></h5>
-        <div class="post-snippet">${hit.html}</div>
+        <h5 style="text-align: left"><a href="{{ site.baseurl }}${url}">${title}</a></h5>
+        <div class="post-snippet">${content}</div>
       </div>
     </div>
   `;
@@ -57,3 +60,17 @@ search.addWidget(
 // Starting the search
 search.start();
 </script>
+
+
+<style>
+.post-link .ais-Highlight {
+  color: #2a7ae2;
+  font-style: normal;
+  font-weight: bold;
+}
+.post-snippet .ais-Highlight {
+  color: #2a7ae2;
+  font-style: normal;
+  font-weight: bold;
+}
+</style>
