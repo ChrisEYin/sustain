@@ -30,5 +30,8 @@ algolia:
   index_name:     'sustain_blog'
   search_only_api_key: '50e1a73b103b7992d4d8655ed52d95e0'
 
+plugins: 
+ - jemoji
+
 # needed for travis-ci build
 exclude: [vendor]

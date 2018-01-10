@@ -181,6 +181,13 @@ body {
   display: block;
 }
 
+.blogpost :not(.emoji) img {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: inline;
+}
+
 .blogpost a {
   text-decoration:none;
   border-bottom: 1.5px solid;
