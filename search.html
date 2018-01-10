@@ -1,13 +1,16 @@
 ---
 layout: layout
-title: Blog
+title: Search
 ---
 
 <div class="container">
-<h3>Blog</h3>
-<div class="hometext">
+<h3>Search</h3>
+
+<div id="search-searchbar"></div>
+
+  <div class="hometext">
     <div class="panel panel-default">
-      <div class="panel-body">
+      <div class="panel-body" id="search-hits">
 		{% for post in site.posts %}
 		  <div class="row">
 		    <div class="col-sm-4 col-md-4 col-lg-4">
@@ -22,6 +25,7 @@ title: Blog
 		    </div>
 		  </div>
 	      {% endfor %}
+		  {% include algolia.html %}
 	    </div>
       </div>
     </div>
