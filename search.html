@@ -4,18 +4,16 @@ title: Search
 ---
 
 <div class="container">
-<h3>Search</h3>
+<h3>Find A Post</h3>
 
 <div id="search-searchbar"></div>
 
   <div class="hometext">
     <div class="panel panel-default">
       <div class="panel-body">
-		{% for post in site.posts %}
 		  <div class="row" id="search-hits">
 		    <div class="col-sm-4 col-md-4 col-lg-4">
 			  <h5 style="text-align: right">
-			    {{ post.date | date: "%B %e, %Y" }}
 		      </h5>
 			</div>
 		    <div class="col-sm-8 col-md-8 col-lg-8">
@@ -24,7 +22,6 @@ title: Search
 			  </h5>
 		    </div>
 		  </div>
-	      {% endfor %}
 		  {% include algolia.html %}
 	    </div>
       </div>
