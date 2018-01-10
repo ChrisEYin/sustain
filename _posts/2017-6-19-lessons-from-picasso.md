@@ -8,11 +8,19 @@ tags:
  - art
  - iteration
  - spain
+ - museum
+ - analogy
+ - lasmeninas
+ - experimentation
+ - quotes
+ - apple
+ - craft
+ - creation
 ---
 
 I was in Barcelona a few weeks ago and stopped by the [Picasso museum](http://www.museupicasso.bcn.cat/en/). Despite not knowing much about him (or art), I walked away with a new appreciation for his incredible life & works.
 
-Picasso is regarded as one of the greatest artists of the 20th century. He was incredibly prolific, creating over 45,000 pieces over his lifetime across paintings, drawings, sculptures, ceramics, and more. His works have sold for over a combined $600 Million. 
+Picasso is regarded as one of the greatest artists of the 20th century. He was incredibly prolific, creating over 45,000 pieces over his lifetime across paintings, drawings, sculptures, ceramics, and more. His works have sold for over a combined $600 Million.
 
 While walkign through the museum, one section in particular spoke to me -- Picasso’s [Las Meninas](https://en.wikipedia.org/wiki/Las_Meninas). It’s his take on a [Diego Valesquez](https://en.wikipedia.org/wiki/Diego_Vel%C3%A1zquez) painting from 1656 (also called Las Meninas). The [original](https://en.wikipedia.org/wiki/Las_Meninas) is considered one of the most important paintings in Western art history (pictured below).
 

@@ -9,6 +9,10 @@ tags:
  - happiness
  - farnamstreet
  - advice
+ - personal
+ - fulfillment
+ - principles
+ - contentment
 ---
 
 I’ve been thinking more about happiness recently. Mostly I've been asking myself questions like, "What is happiness?", "Why is it important?", and "How does one be happy?" These felt like simple questions, but I found my own answers to be shallow & incomplete. 

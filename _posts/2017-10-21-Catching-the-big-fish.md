@@ -12,6 +12,7 @@ tags:
  - movies
  - films
  - tv
+ - quotes
 ---
 
 [David Lynch](https://en.wikipedia.org/wiki/David_Lynch) has been described as "the most important director of this era". He’s created award winning movies & shows like [Blue Velvet](https://www.rottentomatoes.com/m/blue_velvet/), [Mulholland Drive](https://www.rottentomatoes.com/m/mulholland_dr/), [Inland Empire](https://www.rottentomatoes.com/m/inland_empire/), [Twin Peaks](https://www.rottentomatoes.com/tv/twin_peaks) and more. He’s not only a celebrated producer & director, but also a recognized painter, musician, designer and writer.

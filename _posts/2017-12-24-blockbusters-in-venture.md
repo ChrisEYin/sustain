@@ -4,6 +4,7 @@ layout: post
 tags: 
  - books
  - reading
+ - review
  - hollywood
  - venture
  - investing

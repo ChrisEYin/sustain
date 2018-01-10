@@ -19,6 +19,11 @@ tags:
  - thinking
  - difficulty
  - simplicity
+ - thinking
+ - review
+ - munger
+ - fortune
+ - pain
 ---
 
 Recently read through [Alain de Botton](https://en.wikipedia.org/wiki/Alain_de_Botton)’s [Consolations of Philosophy](https://www.amazon.com/Consolations-Philosophy-Alain-Botton/dp/0679779175).  Alain helps us better understand a few topics with the help of some well known philosophers. A pretty light and easy read, but there were some decent stories. Some of my favorite passages below.
