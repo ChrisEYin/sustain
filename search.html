@@ -10,9 +10,9 @@ title: Search
 
   <div class="hometext">
     <div class="panel panel-default">
-      <div class="panel-body" id="search-hits">
+      <div class="panel-body">
 		{% for post in site.posts %}
-		  <div class="row">
+		  <div class="row" id="search-hits">
 		    <div class="col-sm-4 col-md-4 col-lg-4">
 			  <h5 style="text-align: right">
 			    {{ post.date | date: "%B %e, %Y" }}
@@ -22,6 +22,7 @@ title: Search
 		      <h5 style="text-align: left">
 			    <a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}</a>
 			  </h5>
+			  <div class="post-snippet">{{ post.excerpt }}</div>
 		    </div>
 		  </div>
 	      {% endfor %}
