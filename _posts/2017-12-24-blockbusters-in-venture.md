@@ -49,4 +49,4 @@ And finally, as in both venture & entertainment --
 
 So given the similarities, is there anything else we can learn from Hollywood? A lot of possibilities -- from the talent / agent model, the studio / funding model, the decoupled process of idea / creation / distribution, etc. 
 
-Will save my opinions for another post :).
+Will save my opinions for another post :smile:.
