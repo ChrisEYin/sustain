@@ -7,6 +7,8 @@ layout: navpost
 
 The backstory behind this page is [here](/2017/09/30/codex-vitae/). This was inspired by [Ray Dalio’s](https://en.wikipedia.org/wiki/Ray_Dalio) original [Principles](https://cldup.com/rrhmdLUQeD.pdf) document. Some of these are original and [some borrowed](https://twitter.com/VJ_Rabindranath/status/913789653366566913) from those smarter than me. Thanks to everyone out there that helped (both explicitly and implicitly).
 
+Additionally, I've put together my version of a Codex Vitae that you can find [here](/codex-vitae/).
+
 <h6><i>Last updated: September 30th, 2017</i></h6>
 
 <hr>
