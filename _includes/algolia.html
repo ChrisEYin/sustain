@@ -18,6 +18,14 @@ const search = instantsearch({
   }
 });
 
+// Styling the date
+const hitTemplate = function(hit) {
+  let date = '';
+  if (hit.date) {
+    date = moment.unix(hit.date).format('MMM D, YYYY');
+  }
+}
+
 // Adding searchbar and results widgets
 search.addWidget(
   instantsearch.widgets.searchBox({
