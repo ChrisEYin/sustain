@@ -31,10 +31,12 @@ search.addWidget(
      templates: {
       item: function(hit) {
         return `
-          <div class="post-item">
-            <span class="post-meta">${hit.date}</span>
-            <h2><a class="post-link" href="{{ site.baseurl }}${hit.url}">${hit.title}</a></h2>
-            <div class="post-snippet">${hit.html}</div>
+          <div class="row">
+            <div class="col-sm-4 col-md-4 col-lg-4"><h5 style="text-align: right">${hit.date}</h5></div>
+            <div class="col-sm-8 col-md-8 col-lg-8"><h5 style="text-align: left"><a href="{{ site.baseurl }}${hit.url}">${hit.title}</a><h5>
+              <div class="post-snippet">${hit.html}</div>
+            </div>
+          </div>
           </div>
         `;
       }
