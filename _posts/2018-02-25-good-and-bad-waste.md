@@ -12,19 +12,19 @@ tags:
 
 I was speaking with a friend about venture the other day and the topic of waste came up. Venture capital is a game in which [quite a bit of money goes in](https://www.cbinsights.com/research/report/venture-capital-q4-2017/), but [not a lot comes out](https://www.quora.com/What-percentage-of-startups-fail). The vast majority of venture backed startups return nothing, and only a small handful of them generate all the returns. 
 
-The same is seen in startups. Each stage of a business is aimed at solving fundament problems related to the business, ie things like solving for PMF, distribution, retention, etc. And most of the ideas deployed in these pursuits end of producing little value. Ultimately it’s only a small handful of things that make the difference. The [pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) at work.
+The same is seen in startups. Each stage of a business is aimed at solving fundamental problems related to the business, ie things like PMF, distribution, retention, etc. And most of the ideas deployed in these pursuits end of producing little value. Ultimately it’s only a small handful of things that make the difference. The [pareto principle](https://en.wikipedia.org/wiki/Pareto_principle) at work.
 
-It made me think — is this a good use of money / resources? Could we achieve the same results but with a much smaller amount of capital? Or is a certain amount of investment needed in order to find the things (startups or ideas) that ultimately provide value?
+It got me thinking — are we good at deploying money / resources? Could we achieve the same results with much less? Or is a certain amount of investment needed in order to find the things that ultimately provide the value?
 
-In other words, is the money & time allocated to the "losers" considered waste or it it necessary? 
+In other words, is the money & time allocated to the "losers" considered waste or is itt necessary? 
 
 First off, let’s [define waste](http://www.dictionary.com/browse/waste):
 
 > Waste is to consume, spend, or employ uselessly or without adequate return; use to no avail or profit; squander.
 
-So waste is something that doesn’t provie an adequate return. An effort that does not contribute to the outcome. 
+So waste is something that doesn’t provide an adequate return. An effort that does not contribute to the outcome. 
 
-As mentioend above, the majority of investments of ideas don't end up directly contributing to the outcome. And so the question is -- do we classify the losers as waste?
+As mentioned above, the majority of investments or ideas don't end up directly contributing to the outcome. And so the question is -- do we classify the losers as waste?
 
 The answer isn’t as clear as it may seem. While an investment in startup X may not be a financial success, it may lead you to startup Y, which is the real winner. And so that investment in startup X isn’t a waste, it still contributed to the outcome of that fund (even if one level removed).
 
