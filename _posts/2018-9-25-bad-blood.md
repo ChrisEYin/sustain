@@ -1,5 +1,5 @@
 ---
-title: Bad Blood
+title: Bad Blood - Secrets and Lies in a Silicon Valley Startup
 category: books
 permalink: /:categories/:title/
 author:  John Carreyrou

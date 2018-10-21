@@ -1,5 +1,5 @@
 ---
-title: Thinking in Bets
+title: Thinking in Bets - Making Smarter Decisions When You Don't Have All the Facts
 category: books
 permalink: /:categories/:title/
 author:  Annie Duke
