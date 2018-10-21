@@ -1,5 +1,6 @@
 ---
 title: How To Scale With Your Startup
+category: blog
 layout: post
 tags:
 - selfimprovement

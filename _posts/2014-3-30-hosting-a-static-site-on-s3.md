@@ -1,5 +1,6 @@
 ---
 title: Hosting a Static Site on S3
+category: blog
 layout: post
 tags:
 - code

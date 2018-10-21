@@ -1,5 +1,6 @@
 ---
 title: The Dangers of Selling Roadmap
+category: blog
 layout: post
 tags:
 - enterprise

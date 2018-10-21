@@ -1,5 +1,6 @@
 ---
 title: Jekyll Related Posts
+category: blog
 layout: post
 tags:
 - code

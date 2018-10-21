@@ -1,5 +1,6 @@
 ---
 title: On Online Education
+category: blog
 layout: post
 tags:
  - education

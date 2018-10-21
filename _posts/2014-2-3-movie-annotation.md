@@ -1,5 +1,6 @@
 ---
 title: Experiment&#58; Movie Annotation
+category: blog
 layout: post
 tags: 
 - movie

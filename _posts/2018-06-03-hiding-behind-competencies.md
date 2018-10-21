@@ -1,5 +1,6 @@
 ---
 title: Hiding Behind Competencies
+category: blog
 layout: post
 tags: 
 - product

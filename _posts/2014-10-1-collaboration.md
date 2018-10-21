@@ -1,5 +1,6 @@
 ---
 title: Collaboration 3.0
+category: blog
 layout: post
 tags:
  - collaboration

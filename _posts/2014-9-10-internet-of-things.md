@@ -1,5 +1,6 @@
 ---
 title: Internet of Things
+category: blog
 layout: post
 tags:
  - iot

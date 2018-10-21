@@ -1,5 +1,6 @@
 ---
 title: Good vs. Bad Revenue
+category: blog
 layout: post
 tags:
  - revenue

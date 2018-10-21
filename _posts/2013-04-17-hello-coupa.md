@@ -1,5 +1,6 @@
 ---
 title: Hello Coupa!
+category: blog
 layout: post
 tags: 
 - startup

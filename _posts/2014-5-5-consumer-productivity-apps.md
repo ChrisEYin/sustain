@@ -1,5 +1,6 @@
 ---
 title: Why Consumers Won't Pay for Apps
+category: blog
 layout: post
 tags:
 - productivity

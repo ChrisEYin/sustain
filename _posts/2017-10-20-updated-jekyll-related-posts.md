@@ -1,5 +1,6 @@
 ---
 title: Updated Jekyll Related Posts
+category: blog
 layout: post
 tags:
 - code

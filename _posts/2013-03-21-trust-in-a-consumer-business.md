@@ -1,5 +1,6 @@
 ---
 title: Trust in a Consumer Business
+category: blog
 layout: post
 tags:
 - consumer

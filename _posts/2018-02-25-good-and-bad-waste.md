@@ -1,5 +1,6 @@
 ---
 title: Good & Bad Waste
+category: blog
 layout: post
 tags: 
  - startups 

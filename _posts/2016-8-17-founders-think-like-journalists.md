@@ -1,5 +1,6 @@
 ---
 title: Why Early Stage Founders Should Think Like Journalists
+category: blog
 layout: post
 tags: 
  - startup

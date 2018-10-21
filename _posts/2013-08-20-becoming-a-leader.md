@@ -1,6 +1,7 @@
 ---
 title: The First Step To Becoming A Leader
 subtitle: A small behaviorial change that is the cornerstone of leadership.   
+category: blog
 layout: post
 tags: 
 - leadership

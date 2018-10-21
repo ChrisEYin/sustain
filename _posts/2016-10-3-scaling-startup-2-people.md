@@ -1,5 +1,6 @@
 ---
 title: How to Scale Your Startup 2 - People
+category: blog
 layout: post
 tags: 
  - scaling

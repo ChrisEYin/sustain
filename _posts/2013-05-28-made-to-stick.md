@@ -1,6 +1,7 @@
 ---
 title: Made to Stick
 subtitle: A storytelling framework from the NY Times Bestseller by Chip & Dan Heath.
+category: blog
 layout: post
 tags:
 - reading

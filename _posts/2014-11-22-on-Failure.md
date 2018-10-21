@@ -1,5 +1,6 @@
 ---
 title: On Failure - Fab, Aereo, FanTV
+category: blog
 layout: post
 tags:
 - fab

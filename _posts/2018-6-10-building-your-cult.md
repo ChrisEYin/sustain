@@ -1,5 +1,6 @@
 ---
 title: Building Your Cult
+category: blog
 layout: post
 tags: 
 - sales

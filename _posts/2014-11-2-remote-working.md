@@ -1,5 +1,6 @@
 ---
 title: Why Remote Working Is Hard
+category: blog
 layout: post
 tags:
  - remote

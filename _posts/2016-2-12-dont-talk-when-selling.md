@@ -1,5 +1,6 @@
 ---
 title: Don't Talk When Selling
+category: blog
 layout: post
 tags: 
  - sales

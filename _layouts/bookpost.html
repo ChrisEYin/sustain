@@ -1,0 +1,75 @@
+---
+layout: layout
+---
+
+<div class="container">
+	<div class="blog-post">
+		<h3>
+		  <strong><a href="{{ page.url }}">{{ page.title }}</a></strong>
+		</h3>
+	</div>
+	<div class="blog-title">
+		<h5>
+		<i>{{ page.author }}</i>
+			&nbsp;&nbsp;
+			<!-- {% for tag in page.tags %}
+			 <span class="label label-success">{{ tag }}</span>
+			{% endfor %} -->
+		</h5>
+	</div>
+	<div class="panel panel-default">
+		<div class="panel-body">
+			<div class="blogpost">
+			  {{ content }}
+			   <hr>
+			   <!-- Older / New posts -->
+			   <div style="text-align:center">
+    		     {% if page.previous %}
+                   <a {% if page.previous %}href="{{ page.previous.url }}"{% endif %}>← Older</a>
+                 {% endif %}
+                 {% if page.next %}
+                 |
+                   <a {% if page.next %}href="{{ page.next.url }}"{% endif %}>Newer →</a>
+                 {% endif %}
+               </div>
+               <hr>
+               <!-- Related Posts -->
+               {% assign posts_list = "" | split: "|" %}
+
+               {% if page.tags %}
+                 {% for each_tag in page.tags %}
+                   {% for each_post in site.tags[each_tag] %}
+                     {% if each_post.title != page.title %}
+                       {% assign posts_list = posts_list | push: each_post %}
+                     {% endif %}
+                   {% endfor %}
+                 {% endfor %}
+                 {% assign posts_list = posts_list | uniq %}
+               {% else %}
+                 {% assign posts_list = site.posts %}
+               {% endif %}
+
+			   <div class="related-posts">
+					<h5>Related Posts</h5>
+						{% for post in posts_list limit:5 %}
+						  <div class="row">
+							 <div class="col-sm-4 col-md-4 col-lg-4">
+								 <h6 style="text-align: right">
+								 	{{ post.date | date: "%b %e, %Y" }}
+								 </h6>
+							 </div>
+							 <div class="col-sm-8 col-md-8 col-lg-8">
+								 <h6 style="text-align: left">
+								 	<a href="{{ site.baseurl }}{{ post.url | remove_first: '/' }}">{{ post.title }}</a>
+								 </h6>
+							 </div>
+						</div>
+					{% endfor %}
+			   </div>
+			</div>
+		</div>
+	</div>
+	{% include disqus.html %}
+</div>
+
+

@@ -1,5 +1,6 @@
 ---
 title: 	Scarcity, Abstraction & Abundance in History
+category: blog
 layout: post
 tags: 
 - history

@@ -1,5 +1,6 @@
 ---
 title: Apple Watch
+category: blog
 layout: post
 tags: 
  - apple

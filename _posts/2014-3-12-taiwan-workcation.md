@@ -1,5 +1,6 @@
 ---
 title: Taiwan Workcation
+category: blog
 layout: post
 tags:
 - personal

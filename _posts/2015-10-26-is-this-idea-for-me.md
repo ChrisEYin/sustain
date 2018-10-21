@@ -1,5 +1,6 @@
 ---
 title: Is This Idea For Me?
+category: blog
 layout: post
 tags:
  - ideas

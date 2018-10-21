@@ -1,6 +1,7 @@
 ---
 title: Are You Learning to Fail or Failing to Learn?
 subtitle: Exploring the ramifications of failing fast and early.
+category: blog
 layout: post
 tags:
 - startup

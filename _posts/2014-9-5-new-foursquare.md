@@ -1,5 +1,6 @@
 ---
 title: Foursquare &amp; Swarm
+category: blog
 layout: post
 tags:
  - foursquare

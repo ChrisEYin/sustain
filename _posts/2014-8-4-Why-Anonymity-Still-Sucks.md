@@ -1,5 +1,6 @@
 ---
 title: Why Anonymity Still Sucks
+category: blog
 layout: post
 tags:
 - anonymity

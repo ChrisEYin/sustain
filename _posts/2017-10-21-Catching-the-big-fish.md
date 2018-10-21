@@ -1,5 +1,6 @@
 ---
 title: Catching The Big Fish
+category: blog
 layout: post
 tags: 
  - reading

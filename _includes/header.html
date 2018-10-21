@@ -14,13 +14,16 @@
         {% if page.url != "/blog/" %}
           <li><a href="{{ site.baseurl }}writing">WRITING</a></li>
         {% endif %}
+        {% if page.url != "/books/" %}
+          <li><a href="{{ site.baseurl }}books">BOOKS</a></li>
+        {% endif %}
         {% if page.url != "/quotes/" %}
           <li><a href="{{ site.baseurl }}quotes">QUOTES</a></li>
         {% endif %}
-        {% if page.url != "/principles/" %}
+        <!--{% if page.url != "/principles/" %}
           <li><a href="{{ site.baseurl }}principles">PRINCIPLES</a></li>
         {% endif %}
-        <!-- {% if page.url != "/codex-vitae/" %}
+        {% if page.url != "/codex-vitae/" %}
           <li><a href="{{ site.baseurl }}codex-vitae">CODEX VITAE</a></li>
         {% endif %} -->
         {% if page.url != "/search/" %}

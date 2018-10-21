@@ -1,5 +1,6 @@
 ---
 title: Consolations of Philosophy
+category: blog
 layout: post
 tags:
  - philosophy

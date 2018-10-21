@@ -1,5 +1,6 @@
 ---
 title: Software Eats Pop Stars
+category: blog
 layout: post
 tags: 
 - virtualpopstars

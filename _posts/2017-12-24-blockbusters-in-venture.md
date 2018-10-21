@@ -1,5 +1,6 @@
 ---
 title: Blockbusters in Venture
+category: blog
 layout: post
 tags: 
  - books

@@ -1,6 +1,7 @@
 ---
 title: Expensive Headphone Review
 subtitle: false
+category: blog
 layout: post
 tags:
 - personal

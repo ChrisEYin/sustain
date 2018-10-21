@@ -1,5 +1,6 @@
 ---
 title: Transparency
+category: blog
 layout: post
 tags: 
  - culture

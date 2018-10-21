@@ -1,5 +1,6 @@
 ---
 title: Working To Your Own Standard
+category: blog
 layout: post
 tags:
  - work

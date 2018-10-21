@@ -1,5 +1,6 @@
 ---
 title: The Coolest Cooler
+category: blog
 layout: post
 tags: 
  - entrepreneurship

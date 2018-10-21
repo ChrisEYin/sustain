@@ -1,5 +1,6 @@
 ---
 title: Sharpen the Contradictions
+category: blog
 layout: post
 tags: 
  - management

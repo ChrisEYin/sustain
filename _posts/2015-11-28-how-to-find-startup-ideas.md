@@ -1,5 +1,6 @@
 ---
 title: How To Find Startup Ideas
+category: blog
 layout: post
 tags:
  - 0to1

@@ -1,5 +1,6 @@
 ---
 title: How To Figure Out A Competitor's Strategy
+category: blog
 layout: post
 tags:
 - startup

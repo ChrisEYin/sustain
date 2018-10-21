@@ -1,5 +1,6 @@
 ---
 title: How to Scale Your Startup 3 - Org Structure
+category: blog
 layout: post
 tags: 
  - scaling

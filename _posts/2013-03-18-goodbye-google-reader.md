@@ -1,5 +1,6 @@
 ---
 title: Goodbye Google Reader
+category: blog
 layout: post
 tags:
 - consumer

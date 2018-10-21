@@ -1,5 +1,6 @@
 ---
 title: Hot Teams
+category: blog
 layout: post
 tags:
 - teams

@@ -1,5 +1,6 @@
 ---
 title: What Entrepreneurs Can Learn From Picasso
+category: blog
 layout: post
 tags: 
  - picasso

@@ -1,5 +1,6 @@
 ---
 title: Recruiting Framework for Startups
+category: blog
 layout: post
 tags:
  - recruiting

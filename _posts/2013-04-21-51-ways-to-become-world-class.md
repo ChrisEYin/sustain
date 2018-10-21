@@ -1,5 +1,6 @@
 ---
 title: 51 Ways to Become World Class
+category: blog
 layout: post
 tags:
 - selfimprovement

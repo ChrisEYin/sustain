@@ -1,5 +1,6 @@
 ---
 title: Unvalidated Assumptions
+category: blog
 layout: post
 tags:
 - startup
