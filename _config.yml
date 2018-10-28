@@ -28,7 +28,7 @@ google_analytics: UA-35234352-1
 algolia:
   application_id: '2CQ22XRW9R'
   index_name:     'sustain_blog'
-  algolia_api_key: '50e1a73b103b7992d4d8655ed52d95e0'
+  search_only_api_key: '50e1a73b103b7992d4d8655ed52d95e0'
 
 plugins: 
  - jemoji
