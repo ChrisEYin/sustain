@@ -8,11 +8,15 @@ tags:
 - booknotes
 ---
 
+**Chapter 1**
+
 >  I’d seized upon this idea a few years earlier when I coded my first Atari 2600 game (a gunter rite of passage, like a Jedi building his first lightsaber).
 
 >  To quote the Almanac: “People who live in glass houses should shut the fuck up.”
 
 >  I’d discovered it four years earlier, while searching for discarded computer parts. When I first opened the door and gazed into the van’s darkened interior, I knew right away that I’d found something of immeasurable value: privacy. This was a place no one else knew about, where I wouldn’t have to worry about getting hassled or slapped around by my aunt or whatever loser she was currently dating. I could keep my things here without worrying they’d be stolen. And, most important, it was a place where I could access the OASIS in peace.
+
+**Chapter 2**
 
 >  Items in the OASIS had just as much value as things in the real world (sometimes more), and you couldn’t pay for them with food vouchers. The OASIS credit was the coin of the realm, and in these dark times, it was also one of the world’s most stable currencies, valued higher than the dollar, pound, euro, or yen.
 
@@ -32,11 +36,18 @@ tags:
 
 >  For us, it was like someone threatening to take away the sun, or charge a fee to look up at the sky.
 
+**Chapter 12**
+
 >  I found myself wondering how Aech and I would remain friends through everything that lay ahead. Neither of us wanted to work as a team, so from here on out we would be in direct competition with each other. Would I eventually regret helping him today? Or come to resent that I’d unwittingly led him to the Copper Key’s hiding place?
 
+**Chapter 29**
+
 >  When I tried to access one of the other entertainment libraries, Vintage Movies, the system informed me that I wouldn’t be granted access to a wider selection of entertainment options until I had received an above-average rating in three consecutive employee performance reviews.
+
+**Chapter 30**
 
 >  I wasn’t permitted to have any decorations in my cubicle, because I hadn’t earned that privilege yet. If I obtained a sufficient number of “perk points” by getting high productivity and customer approval ratings, I could “spend” some of them to purchase the privilege of decorating my cube, perhaps with a potted plant or an inspirational poster of a kitten hanging from a clothesline.
 
 >  IOI’s patented customer courtesy software had detected the inappropriate nature of my response and muted it, so the customer didn’t hear what I’d said. The software also logged my “courtesy violation” and forwarded it to Trevor, my section supervisor, so that he could bring it up during my next biweekly performance review.
+rwarded it to Trevor, my section supervisor, so that he could bring it up during my next biweekly performance review.
 

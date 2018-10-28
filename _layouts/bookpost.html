@@ -22,7 +22,8 @@ layout: layout
 			<div class="blogpost">
 			  {{ content }}
 			   <hr>
-			   <!-- Older / New posts -->
+			   <!--
+			   Older / New posts
 			   <div style="text-align:center">
     		     {% if page.previous %}
                    <a {% if page.previous %}href="{{ page.previous.url }}"{% endif %}>← Older</a>
@@ -33,6 +34,7 @@ layout: layout
                  {% endif %}
                </div>
                <hr>
+               -->
                <!-- Related Posts -->
                {% assign posts_list = "" | split: "|" %}
 
