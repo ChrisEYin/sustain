@@ -1,5 +1,5 @@
 ---
-title: Brief Look at Taiwan
+title: A Brief Look at Taiwan
 category: blog
 layout: post
 tags:
