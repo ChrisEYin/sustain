@@ -1,6 +1,6 @@
 ---
 title: Living Hard Drive Free
-category: blog
+category: archive
 layout: post
 tags:
 - personal

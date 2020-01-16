@@ -1,7 +1,7 @@
 ---
 title: Standing Desk
 subtitle: false
-category: blog
+category: archive
 layout: post
 tags:
 - selfimprovement

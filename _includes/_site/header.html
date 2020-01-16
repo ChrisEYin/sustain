@@ -1,0 +1,38 @@
+<nav class="navbar navbar-default">
+  <div class="container">
+    <!--<div class="navbar-header">
+      <a class="navbar-brand" href="{{ site.baseurl }}"><i class="fa fa-home"></i></a>
+    </div>-->
+    <div id="navbar">
+      <ul class="nav navbar-nav navbar-center">
+        {% if page.url != "/" %}
+          <li><a href="{{ site.baseurl }}">HOME</a></li>
+        {% endif %}
+        {% if page.url != "/about/" %}
+          <li><a href="{{ site.baseurl }}about">ABOUT</a></li>
+        {% endif %}
+        {% if page.url != "/blog/" %}
+          <li><a href="{{ site.baseurl }}writing">WRITING</a></li>
+        {% endif %}
+        {% if page.url != "/reading/" %}
+          <li><a href="{{ site.baseurl }}reading">READING</a></li>
+        {% endif %}
+        {% if page.url != "/quotes/" %}
+          <li><a href="{{ site.baseurl }}quotes">QUOTES</a></li>
+        {% endif %}
+        <!--{% if page.url != "/principles/" %}
+          <li><a href="{{ site.baseurl }}principles">PRINCIPLES</a></li>
+        {% endif %}
+        {% if page.url != "/codex-vitae/" %}
+          <li><a href="{{ site.baseurl }}codex-vitae">CODEX VITAE</a></li>
+        {% endif %} -->
+        {% if page.url != "/search/" %}
+          <li><a href="{{ site.baseurl }}search">SEARCH</a></li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+ 

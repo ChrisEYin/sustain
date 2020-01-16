@@ -1,5 +1,5 @@
 ---
-title: What Entrepreneurs Can Learn From Picasso
+title: The Art of Composting
 category: blog
 layout: post
 tags: 

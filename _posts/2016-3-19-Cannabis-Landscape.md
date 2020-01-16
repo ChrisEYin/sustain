@@ -1,6 +1,6 @@
 ---
 title: Cannabis Landscape
-category: blog
+category: archive
 layout: post
 tags: 
  - cannabis

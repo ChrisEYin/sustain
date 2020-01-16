@@ -1,5 +1,6 @@
 ---
 title: How I Use The Web
+category: archive
 layout: post
 tags:
 - personal

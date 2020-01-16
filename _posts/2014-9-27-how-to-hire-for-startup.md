@@ -1,6 +1,6 @@
 ---
 Title: How To Hire For A Startup
-category: blog
+category: archive
 layout: post
 tags:
  - startup

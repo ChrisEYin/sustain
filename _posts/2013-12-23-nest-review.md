@@ -1,7 +1,7 @@
 ---
 title: Nest Thermostat Review
 subtitle: Beautiful product, but not ready for the mainstream consumer market. 
-category: blog
+category: archive
 layout: post
 tags:
 - consumer

@@ -1,6 +1,6 @@
 ---
 title: 2015 Predictions
-category: blog
+category: archive
 layout: post
 tags:
  - 2015

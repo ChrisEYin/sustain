@@ -1,5 +1,5 @@
 ---
-title: On Happiness & Meaning
+title: Happiness & Meaning
 category: blog
 layout: post
 tags: 

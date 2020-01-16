@@ -1,5 +1,5 @@
 ---
-title: Working Hard &amp; Not Getting Anything Done
+title: Play Offense
 subtitle: When you are hunting elephants, don't get distracted chasing rabbits. 
 category: blog
 layout: post

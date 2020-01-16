@@ -1,7 +1,7 @@
 ---
 title: Leadership
 subtitle: 3 things about it.
-category: blog
+category: archive
 layout: post
 tags:
 - leadership

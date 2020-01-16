@@ -1,6 +1,6 @@
 ---
 title: Codex Vitae
-category: blog
+category: archive
 layout: post
 tags: 
 - principles

@@ -1,6 +1,6 @@
 ---
 title: Fanhattan UX Breakdown
-category: blog
+category: archive
 layout: post
 tags: 
 - design

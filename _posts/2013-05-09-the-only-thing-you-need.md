@@ -1,7 +1,7 @@
 ---
 title: The Only Thing You Need to Succeed &amp; Be Happy
 subtitle: The silver bullet to moving forward in your career with confidence.
-category: blog
+category: archive
 layout: post
 tags:
 - life

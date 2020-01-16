@@ -1,5 +1,5 @@
 ---
-title: How To Get Valuable Advice
+title: How To Take Advice
 category: blog
 layout: post
 tags:

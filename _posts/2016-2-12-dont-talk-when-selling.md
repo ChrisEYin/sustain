@@ -1,5 +1,5 @@
 ---
-title: Don't Talk When Selling
+title: Selling is Listening
 category: blog
 layout: post
 tags: 
@@ -23,10 +23,8 @@ You may have some idea about some generic problem the opposing party is trying t
 
 The real problem is almost never simple as ‘I need a product that can do XYZ’. The real problem might be that person wants a promotion and they need to do something. Or their job is on the line and they want to prove some results. Once you know that, you can position yourself as solving their real problem and put yourself in a place to succeed.
 
-So next time you’re in front of someone selling something — shut up. Take time to listen and ask questions. Once you figure out what the real problem is, craft your message around that.
+So next time you’re in front of someone selling something — listen. Take time to ask questions. Once you figure out what the real problem is, craft your message around that.
 
-<hr>
-
-As a caveat to the above, I’m not advocating lying to sell something. The point is that once you learn the problem, *if* you can solve it, then go for it. If not, don’t.
+And to be clear, I’m not advocating lying to sell something. The point is that once you learn the problem, *if* you can solve it, then go for it. If not, don’t.
 
 

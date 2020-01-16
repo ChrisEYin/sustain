@@ -1,5 +1,5 @@
 ---
-title: Is This Idea For Me?
+title: Founder Problem Fit
 category: blog
 layout: post
 tags:

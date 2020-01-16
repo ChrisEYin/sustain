@@ -1,6 +1,6 @@
 ---
 title: Let's Stop Saying B2B
-category: blog
+category: archive
 layout: post
 tags:
 - enterprise

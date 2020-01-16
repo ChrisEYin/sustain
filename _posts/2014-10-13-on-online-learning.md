@@ -1,6 +1,6 @@
 ---
 title: On Online Education
-category: blog
+category: archive
 layout: post
 tags:
  - education

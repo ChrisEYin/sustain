@@ -1,6 +1,6 @@
 ---
 title: Good & Bad Waste
-category: blog
+category: archive
 layout: post
 tags: 
  - startups 

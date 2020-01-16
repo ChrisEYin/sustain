@@ -1,5 +1,5 @@
 ---
-title: Recruiting Framework for Startups
+title: Startup Recruiting Framework
 category: blog
 layout: post
 tags:

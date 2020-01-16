@@ -1,6 +1,6 @@
 ---
 title: Prosumers in B2B
-category: blog
+category: archive
 layout: post
 tags: 
  - enterprise

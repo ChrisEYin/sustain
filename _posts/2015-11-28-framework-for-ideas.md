@@ -1,5 +1,5 @@
 ---
-title: How To Find Startup Ideas
+title: Framework for Ideas
 category: blog
 layout: post
 tags:

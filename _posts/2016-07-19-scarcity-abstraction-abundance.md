@@ -1,5 +1,5 @@
 ---
-title: 	Scarcity, Abstraction & Abundance in History
+title: 	Scarcity, Abstraction & Abundance
 category: blog
 layout: post
 tags: 

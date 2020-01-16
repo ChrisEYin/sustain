@@ -1,6 +1,6 @@
 ---
 title: 10 Commandments For Every Product Manager
-category: blog
+category: archive
 layout: post
 tags: 
 - product

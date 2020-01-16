@@ -1,6 +1,6 @@
 ---
 title: Mobile First in the Enterprise
-category: blog
+category: archive
 layout: post
 tags:
 - mobile

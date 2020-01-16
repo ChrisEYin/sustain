@@ -1,5 +1,5 @@
 ---
-title: Why Early Stage Founders Should Think Like Journalists
+title: Journalism as an Analogy
 category: blog
 layout: post
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Joining As Management
-category: blog
+category: archive
 layout: post
 tags: 
  - management

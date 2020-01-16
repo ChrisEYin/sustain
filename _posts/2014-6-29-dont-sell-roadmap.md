@@ -1,5 +1,5 @@
 ---
-title: The Dangers of Selling Roadmap
+title: Don't Sell Roadmap
 category: blog
 layout: post
 tags:

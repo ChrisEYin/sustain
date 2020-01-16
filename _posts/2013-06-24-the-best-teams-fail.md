@@ -1,7 +1,7 @@
 ---
 title: Good Teams Succeed. Great Teams Fail.
 subtitle: How to create an effective, long term team.
-category: blog
+category: archive
 layout: post
 tags:
 - teams

@@ -1,6 +1,6 @@
 ---
 title: How to Scale Your Startup 4 - Results
-category: blog
+category: archive
 layout: post
 tags: 
  - scaling

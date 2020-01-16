@@ -1,6 +1,6 @@
 ---
 title: Youtube Videos in Jekyll
-category: blog
+category: archive
 layout: post
 tags:
  - code

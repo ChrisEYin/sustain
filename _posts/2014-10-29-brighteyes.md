@@ -1,6 +1,6 @@
 ---
 title: BrightEyes Fireside Chat
-category: blog
+category: archive
 layout: post
 tags:
  - video

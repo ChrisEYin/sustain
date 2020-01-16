@@ -1,6 +1,6 @@
 ---
 title: Why I Write
-category: blog
+category: archive
 layout: post
 tags: 
  - personal

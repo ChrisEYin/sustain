@@ -1,6 +1,6 @@
 ---
 title: The Next Wave of Business Software
-category: blog
+category: archive
 layout: post
 tags:
  - machinelearning

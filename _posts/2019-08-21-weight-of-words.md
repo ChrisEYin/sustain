@@ -1,6 +1,6 @@
 ---
 title: The Weight of Words
-category: blog
+category: archive
 layout: post
 tags:
 - words

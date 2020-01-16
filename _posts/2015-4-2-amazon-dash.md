@@ -1,6 +1,6 @@
 ---
 title: Amazon Dash
-category: blog
+category: archive
 layout: post
 tags:
  - amazon

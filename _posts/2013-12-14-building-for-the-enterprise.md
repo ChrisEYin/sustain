@@ -1,7 +1,7 @@
 ---
 title: Building for the Enterprise
 subtitle: Learnings from Xpenser and Coupa
-category: blog
+category: archive
 layout: post
 tags:
 - startup

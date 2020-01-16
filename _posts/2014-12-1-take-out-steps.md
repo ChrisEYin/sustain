@@ -1,6 +1,6 @@
 ---
 title: Take Out Steps
-category: blog
+category: archive
 layout: post
 tags:
 - consumer

@@ -1,0 +1,23 @@
+<div class="social">
+	<h4>
+    {% if site.email %}
+      <a href="mailto:{{ site.email}}" target="_blank"><i class="fa fa-envelope"></i></a>
+    {% endif %}
+    {% if site.twitter %}
+	  <a href="http://twitter.com/{{ site.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+    {% endif %}
+    {% if site.instagram %}
+      <a href="https://instagram.com/{{ site.instagram }}" target="_blank"><i class="fa fa-instagram"></i></a>
+    {% endif %}
+    {% if site.linkedin %}
+	  <a href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a>
+    {% endif %}
+    <!-- {% if site.facebook %}
+      <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank"><i class="fa fa-facebook"></i></a>
+    {% endif %}
+    {% if site.tumblr %}
+      <a href="http://{{ site.tumblr }}.tumblr.com/" target="_blank"><i class="fa fa-tumblr"></i></a>
+    {% endif %} -->
+      <a href="{{ site.baseurl }}atom.xml" target="_blank"><i class="fa fa-rss"></i></a>
+	</h4>
+</div>

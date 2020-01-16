@@ -1,6 +1,6 @@
 ---
-title: What VC's Think Will Happen in 2016
-category: blog
+title: VC 2016 Predictions
+category: archive
 layout: post
 tags: 
  - predictions

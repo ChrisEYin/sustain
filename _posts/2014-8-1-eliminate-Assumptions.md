@@ -1,5 +1,5 @@
 ---
-title: Unvalidated Assumptions
+title: Eliminate Assumptions
 category: blog
 layout: post
 tags:

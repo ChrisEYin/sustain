@@ -1,6 +1,6 @@
 ---
 title: Foursquare &amp; Swarm
-category: blog
+category: archive
 layout: post
 tags:
  - foursquare

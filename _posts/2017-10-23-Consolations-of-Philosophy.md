@@ -1,6 +1,9 @@
 ---
 title: Consolations of Philosophy
-category: blog
+category: books
+permalink: /:categories/:title/
+author:  Alain de Botton
+layout: bookpost
 layout: post
 tags:
  - philosophy

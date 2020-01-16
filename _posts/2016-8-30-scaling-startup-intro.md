@@ -1,6 +1,6 @@
 ---
 title: How to Scale Your Startup - An Intro
-category: blog
+category: archive
 layout: post
 tags: 
  - scaling

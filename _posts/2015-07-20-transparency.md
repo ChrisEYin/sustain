@@ -1,6 +1,6 @@
 ---
 title: Transparency
-category: blog
+category: archive
 layout: post
 tags: 
  - culture
