@@ -1,5 +1,5 @@
 ---
-title: The Art of Composting
+title: The Art in Composting
 category: blog
 layout: post
 tags: 
