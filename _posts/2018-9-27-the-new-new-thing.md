@@ -5,7 +5,14 @@ permalink: /:categories/:title/
 author:  Michael Lewis
 layout: bookpost
 tags:
-- booknotes
+- venture
+- biography
+- founder
+- entrepreneur
+- technology
+- jimclark
+- michaellewis
+- hardware
 ---
 
 > Silicon Valley is to the United States what the United States is to the rest of the world. It is one of those places, unlike the Metropolitan Museum of Art, but like Las Vegas, that are unimaginable anywhere but in the United States. It is distinctively us.

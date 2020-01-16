@@ -5,7 +5,6 @@ permalink: /:categories/:title/
 author:  Nick Bilton
 layout: bookpost
 tags:
-- booknotes
 - crypto
 - bitcoin
 - silkroad

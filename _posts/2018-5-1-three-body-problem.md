@@ -5,7 +5,17 @@ permalink: /:categories/:title/
 author:  Cixin Liu
 layout: bookpost
 tags:
-- booknotes
+- fiction
+- scifi
+- alien
+- aliens
+- games
+- future
+- dystopian
+- china
+- chinese
+- space
+- videogames
 ---
 
 >  “Lin Lin is too smart. To work in fundamental theory, one must be stupid.”

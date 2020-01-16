@@ -5,7 +5,16 @@ permalink: /:categories/:title/
 author:  David Kushner
 layout: bookpost
 tags:
-- booknotes
+- biography
+- games
+- founders
+- consoles
+- iconic
+- doom
+- johncarmack
+- vr
+- oculus
+- cautionarytale
 ---
 
 >  electric cord into your ears and pretend that

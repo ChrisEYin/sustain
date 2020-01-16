@@ -5,7 +5,11 @@ permalink: /:categories/:title/
 author:  Annie Duke
 layout: bookpost
 tags:
-- booknotes
+- thinking
+- decisions
+- gambling
+- betting
+- investing
 ---
 
 >  Game theory was succinctly defined by economist Roger Myerson (one of the game-theory Nobel laureates) as “the study of mathematical models of conflict and cooperation between intelligent rational decision-makers.”

@@ -54,6 +54,7 @@ layout: layout
 			   <div class="related-posts">
 					<h5>Related Posts</h5>
 						{% for post in posts_list limit:5 %}
+						{% if post.category != 'archive' %}
 						  <div class="row">
 							 <div class="col-sm-4 col-md-4 col-lg-4">
 								 <h6 style="text-align: right">
@@ -66,6 +67,7 @@ layout: layout
 								 </h6>
 							 </div>
 						</div>
+						{% endif %}
 					{% endfor %}
 			   </div>
 			</div>

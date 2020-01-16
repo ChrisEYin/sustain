@@ -6,9 +6,7 @@ author: David Lynch
 layout: bookpost
 layout: post
 tags: 
- - reading
  - davidlynch
- - books
  - meditation
  - ideas
  - creativity

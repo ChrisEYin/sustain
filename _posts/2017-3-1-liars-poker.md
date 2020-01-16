@@ -5,7 +5,12 @@ permalink: /:categories/:title/
 author:  Michael Lewis
 layout: bookpost
 tags:
-- booknotes
+- michaellewis
+- finance
+- lehman
+- warrenbuffett
+- investing
+- banking
 ---
 
 >  The astute investor Warren Buffett is fond of saying that any player unaware of the fool in the market probably is the fool in the market.

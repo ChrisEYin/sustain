@@ -5,7 +5,12 @@ permalink: /:categories/:title/
 author: Robert M. Sapolsky
 layout: bookpost
 tags:
-- booknotes
+- brain
+- biology
+- humans
+- textbook
+- thinking
+- science
 ---
 
 >  The amygdala is also involved in the expression of anxiety. 14 Take a deck of cards—half are black, half are red; how much would you wager that the top card is red? That’s about risk. Here’s a deck of cards—at least one is black, at least one is red; how much would you wager that the top card is red? That’s about ambiguity.

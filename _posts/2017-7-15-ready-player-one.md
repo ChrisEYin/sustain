@@ -5,7 +5,14 @@ permalink: /:categories/:title/
 author:  Ernest Cline
 layout: bookpost
 tags:
-- booknotes
+- scifi
+- fiction
+- vr
+- future
+- fun
+- dystopian
+- games
+- videogames
 ---
 
 **Chapter 1**

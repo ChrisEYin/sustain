@@ -5,7 +5,10 @@ permalink: /:categories/:title/
 author:  David Morris Carey
 layout: bookpost
 tags:
-- booknotes
+- blackstone
+- investing
+- biography
+- finance
 ---
 
 >  Sixteen months later, after selling off Gibson Greeting’s real estate, Wesray and the management took the company public in a stock offering that valued it at $ 290 million. Without leverage (another term for debt), they would have made roughly three and a half times their money. But with the extraordinary ratio of debt in the original deal, Simon and his Wesray partner Raymond Chambers each made more than $ 65 million on their respective $ 330,000 investments—a two-hundred-fold profit. Their phenomenal gain instantly became legend.

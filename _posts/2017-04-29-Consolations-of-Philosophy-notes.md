@@ -1,5 +1,5 @@
 ---
-title: Consolations of Philosophy
+title: Consolations of Philosophy - Notes
 category: books
 permalink: /:categories/:title/
 author:  Alain de Botton
@@ -7,9 +7,6 @@ layout: bookpost
 layout: post
 tags:
  - philosophy
- - books
- - reading
- - quotes
  - life
  - alaindebotton
  - socrates
@@ -20,7 +17,6 @@ tags:
  - happiness
  - fulfillment
  - writing
- - thinking
  - difficulty
  - simplicity
  - thinking

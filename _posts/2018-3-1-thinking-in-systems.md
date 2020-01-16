@@ -5,7 +5,11 @@ permalink: /:categories/:title/
 author:  Donella H. Meadows
 layout: bookpost
 tags:
-- booknotes
+- systems
+- mentalmodels
+- thinking
+- textbook
+- loops
 ---
 
 >  A system* is an interconnected set of elements that is coherently organized in a way that achieves something. If you look at that definition closely for a minute, you can see that a system must consist of three kinds of things: elements, interconnections, and a function or purpose.

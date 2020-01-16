@@ -5,7 +5,9 @@ permalink: /:categories/:title/
 author: Jordan Ellenberg
 layout: bookpost
 tags:
-- booknotes
+- math
+- mentalmodels
+- thinking
 ---
 
 >  The armor, said Wald, doesn’t go where the bullet holes are. It goes where the bullet holes aren’t: on the engines. Wald’s insight was simply to ask: where are the missing holes? The ones that would have been all over the engine casing, if the damage had been spread equally all over the plane? Wald was pretty sure he knew. The missing bullet holes were on the missing planes. The reason planes were coming back with fewer hits to the engine is that planes that got hit in the engine weren’t coming back. Whereas the large number of planes returning to base with a thoroughly Swiss-cheesed fuselage is pretty strong evidence that hits to the fuselage can (and therefore should) be tolerated.

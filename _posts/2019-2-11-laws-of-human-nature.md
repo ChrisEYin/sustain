@@ -5,7 +5,6 @@ permalink: /:categories/:title/
 author:  Robert Greene
 layout: bookpost
 tags:
-- booknotes
 - robertgreene
 - human
 - nature

@@ -5,7 +5,6 @@ permalink: /:categories/:title/
 author:  Nathaniel Popper
 layout: bookpost
 tags:
-- booknotes
 - bitcoin
 - mtgox
 - gold

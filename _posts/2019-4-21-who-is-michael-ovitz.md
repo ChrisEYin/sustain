@@ -5,7 +5,6 @@ permalink: /:categories/:title/
 author:  Michael Ovitz
 layout: bookpost
 tags:
-- booknotes
 - hollywood
 - caa
 - a16z

@@ -5,7 +5,12 @@ permalink: /:categories/:title/
 author:  Edith Hamilton
 layout: bookpost
 tags:
-- booknotes
+- mythology
+- history
+- greece
+- greek
+- hercules
+- zeus
 ---
 
 >  But when any account of her gets down to details, it shows her chiefly engaged in punishing the many women Zeus fell in love with, even when they yielded only because he coerced or tricked them.
@@ -14,7 +19,7 @@ tags:
 
 >  Until Greek literature and art entered Italy the Romans felt no need for beautiful, poetic gods. They were a practical people and they did not care about “Violet-tressed Muses who inspire song,” or “Lyric Apollo making sweet melodies upon his golden lyre,” or anything of that sort. They wanted useful gods.
 
->  FOR the most part the immortal gods were of little use to human beings and often they were quite the reverse of useful: Zeus a dangerous lover for mortal maidens and completely incalculable in his use of the terrible thunderbolt; Ares the maker of war and a general pest;
+>  For the most part the immortal gods were of little use to human beings and often they were quite the reverse of useful: Zeus a dangerous lover for mortal maidens and completely incalculable in his use of the terrible thunderbolt; Ares the maker of war and a general pest;
 
 >  Beauty breathed about her and a lovely fragrance; light shone from her so that the great house was filled with brightness. She was Demeter, she told the awestruck women. They must build her a great temple near the town and so win back the favor of her heart.
 

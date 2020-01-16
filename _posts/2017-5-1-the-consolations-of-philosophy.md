@@ -5,7 +5,15 @@ permalink: /:categories/:title/
 author:  Alain De Botton
 layout: bookpost
 tags:
-- booknotes
+- philosophy
+- alaindebotton
+- happiness
+- lilfe
+- epicurus
+- knowledge
+- history
+- writing
+- nietszche
 ---
 
 >  The correctness of a statement cannot, the method suggests, be determined by whether it is held by a majority or has been believed for a long time by important people. A correct statement is one incapable of being rationally contradicted. A statement is true if it cannot be disproved.

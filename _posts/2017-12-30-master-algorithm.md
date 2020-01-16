@@ -5,7 +5,13 @@ permalink: /:categories/:title/
 author:  Pedro Domingos
 layout: bookpost
 tags:
-- booknotes
+- machinelearning
+- google
+- textbook
+- future
+- technology
+- predictions
+- machineintelligence
 ---
 
 >  Symbolists view learning as the inverse of deduction and take ideas from philosophy, psychology, and logic. Connectionists reverse engineer the brain and are inspired by neuroscience and physics. Evolutionaries simulate evolution on the computer and draw on genetics and evolutionary biology. Bayesians believe learning is a form of probabilistic inference and have their roots in statistics. Analogizers learn by extrapolating from similarity judgments and are influenced by psychology and mathematical optimization.

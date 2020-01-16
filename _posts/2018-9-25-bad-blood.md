@@ -5,7 +5,14 @@ permalink: /:categories/:title/
 author:  John Carreyrou
 layout: bookpost
 tags:
-- booknotes
+- founder
+- biography
+- downfall
+- caution
+- biology
+- stanford
+- scam
+- cautionarytale
 ---
 
 >  Elizabeth demanded absolute loyalty from her employees and if she sensed that she no longer had it from someone, she could turn on them in a flash.

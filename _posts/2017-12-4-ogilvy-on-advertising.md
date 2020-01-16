@@ -5,7 +5,14 @@ permalink: /:categories/:title/
 author: David Ogilvy
 layout: bookpost
 tags:
-- booknotes
+- marketing
+- advertising
+- ogilvy
+- biography
+- creative
+- howto
+- ideas
+- creation
 ---
 
 >  Consumers still buy products whose advertising promises them value for money, beauty, nutrition, relief from suffering, social status and so on.

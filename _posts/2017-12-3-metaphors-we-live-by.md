@@ -5,7 +5,13 @@ permalink: /:categories/:title/
 author: George Lakoff
 layout: bookpost
 tags:
-- booknotes
+- thinking
+- systems
+- vocabulary
+- words
+- communication
+- textbook
+- mentalmodels
 ---
 
 >  In allowing us to focus on one aspect of a concept (e.g., the battling aspects of arguing), a metaphorical concept can keep us from focusing on other aspects of the concept that are inconsistent with that metaphor.

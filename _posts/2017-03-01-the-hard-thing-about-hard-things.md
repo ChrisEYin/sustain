@@ -5,7 +5,14 @@ permalink: /:categories/:title/
 author:  Ben Horowitz
 layout: bookpost
 tags:
-- booknotes
+- startups
+- founder
+- culture
+- building
+- benhorowitz
+- a16z
+- opsware
+- rap
 ---
 
 >  “Gentlemen, I’ve done many deals in my lifetime and through that process, I’ve developed a methodology, a way of doing things, a philosophy if you will. Within that philosophy, I have certain beliefs. I believe in artificial deadlines. I believe in playing one against the other. I believe in doing everything and anything short of illegal or immoral to get the damned deal done.”

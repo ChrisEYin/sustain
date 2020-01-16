@@ -5,7 +5,10 @@ permalink: /:categories/:title/
 author: Reed Tucker
 layout: bookpost
 tags:
-- booknotes
+- marvel
+- disney
+- movies
+- film
 ---
 
 >  “They thought maybe the readers liked bad art because it’s crude, like a kid would draw,” says Jim Shooter, Marvel’s former editor-in-chief who worked at DC in the 1960s. “‘ Maybe we should tell the artists to draw worse.’ That’s a quote. I heard that.”

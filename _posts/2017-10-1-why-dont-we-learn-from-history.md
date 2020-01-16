@@ -5,7 +5,10 @@ permalink: /:categories/:title/
 author:  B.H. Liddell Hart
 layout: bookpost
 tags:
-- booknotes
+- history
+- war
+- leadership
+- government
 ---
 
 >  The object might be more cautiously expressed thus: to find out what happened while trying to find out why it happened. In other words, to seek the causal relations between events.

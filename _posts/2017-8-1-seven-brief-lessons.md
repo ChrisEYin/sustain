@@ -5,7 +5,15 @@ permalink: /:categories/:title/
 author:  Carlo Rovelli
 layout: bookpost
 tags:
-- booknotes
+- physics
+- mentalmodels
+- science
+- textbook
+- feynman
+- maxplanck
+- planck
+- biology
+- space
 ---
 
 >  The German physicist Max Planck calculated the electric field in equilibrium in a hot box. To do this he used a trick: he imagined that the energy of the field is distributed in “quanta,” that is, in packets or lumps of energy. The procedure led to a result that perfectly reproduced what was measured (and therefore must be in some fashion correct) but clashed with everything that was known at the time. Energy was considered to be something that varied continuously, and there was no reason to treat it as if it were made up of small building blocks.
