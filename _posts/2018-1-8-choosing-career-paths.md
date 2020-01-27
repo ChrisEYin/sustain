@@ -1,5 +1,5 @@
 ---
-title: On Choosing Career Paths
+title: Choosing Career Paths
 category: blog
 layout: post
 tags:
