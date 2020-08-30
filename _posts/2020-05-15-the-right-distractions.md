@@ -1,6 +1,6 @@
 ---
 title: The Right Distractions
-category: blog
+category: archive
 layout: post
 tags: 
 - product

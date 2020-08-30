@@ -1,6 +1,6 @@
 ---
 title: Serendipity
-category: blog
+category: archive
 layout: post
 tags: 
 - serendipity

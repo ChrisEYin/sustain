@@ -1,6 +1,6 @@
 ---
 title: Framework for Ideas
-category: blog
+category: archive
 layout: post
 tags:
  - 0to1

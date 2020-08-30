@@ -1,6 +1,6 @@
 ---
 title: High Output Management
-category: blog
+category: archive
 layout: post
 tags:
  - management

@@ -1,6 +1,6 @@
 ---
 title: Happiness & Meaning
-category: blog
+category: archive
 layout: post
 tags: 
  - meaning

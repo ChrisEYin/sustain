@@ -1,6 +1,6 @@
 ---
 title: How Google Works
-category: blog
+category: archive
 layout: post
 tags:
  - consumer

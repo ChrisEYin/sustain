@@ -1,6 +1,6 @@
 ---
 Title: Startup Studios
-category: blog
+category: archive
 layout: post
 tags:
  - startup
