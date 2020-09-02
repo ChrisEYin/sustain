@@ -1,6 +1,6 @@
 ---
 title: Founder Problem Fit
-category: blog
+category: archive
 layout: post
 tags:
  - ideas

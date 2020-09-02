@@ -1,6 +1,6 @@
 ---
 title: Choosing Career Paths
-category: blog
+category: thoughts
 layout: post
 tags:
  - career
