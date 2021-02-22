@@ -1,6 +1,6 @@
 ---
 title: 	Scarcity, Abstraction & Abundance
-category: blog
+category: thoughts
 layout: post
 tags: 
 - history

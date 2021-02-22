@@ -1,6 +1,6 @@
 ---
 title: Exceptions Are The Work
-category: blog
+category: thoughts
 layout: post
 tags: 
 - saas

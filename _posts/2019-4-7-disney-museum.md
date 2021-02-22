@@ -1,6 +1,6 @@
 ---
 title: Walt Disney Museum
-category: blog
+category: thoughts
 layout: post
 tags: 
 - disney

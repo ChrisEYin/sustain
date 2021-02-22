@@ -1,6 +1,6 @@
 ---
 title: A Brief Look at Taiwan
-category: blog
+category: thoughts
 layout: post
 tags:
 - taiwan

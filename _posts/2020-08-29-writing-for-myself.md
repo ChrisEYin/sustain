@@ -1,6 +1,6 @@
 ---
 title: Writing For Myself
-category: blog
+category: thoughts
 layout: post
 tags: 
 - writing
