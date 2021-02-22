@@ -1,6 +1,6 @@
 ---
 title: The Laws of Human Nature
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Robert Greene
 layout: bookpost

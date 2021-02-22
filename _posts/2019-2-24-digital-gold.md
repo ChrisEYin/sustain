@@ -1,6 +1,6 @@
 ---
 title: Digital Gold - Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Nathaniel Popper
 layout: bookpost

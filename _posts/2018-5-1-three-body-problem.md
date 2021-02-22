@@ -1,6 +1,6 @@
 ---
 title: The Three-Body Problem (Remembrance of Earth's Past)
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Cixin Liu
 layout: bookpost

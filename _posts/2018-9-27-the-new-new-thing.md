@@ -1,6 +1,6 @@
 ---
 title: The New New Thing - A Silicon Valley Story
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Michael Lewis
 layout: bookpost

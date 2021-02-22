@@ -1,6 +1,6 @@
 ---
 title: Ready Player One
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Ernest Cline
 layout: bookpost

@@ -1,6 +1,6 @@
 ---
 title: Why Don't We Learn from History?
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  B.H. Liddell Hart
 layout: bookpost

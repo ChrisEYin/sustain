@@ -1,6 +1,6 @@
 ---
 title: Only the Paranoid Survive - How to Exploit the Crisis Points That Challenge Every Company
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Andrew S. Grove
 layout: bookpost

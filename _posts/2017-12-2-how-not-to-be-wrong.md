@@ -1,6 +1,6 @@
 ---
 title: How Not to Be Wrong - The Power of Mathematical Thinking
-category: books
+category: reading
 permalink: /:categories/:title/
 author: Jordan Ellenberg
 layout: bookpost

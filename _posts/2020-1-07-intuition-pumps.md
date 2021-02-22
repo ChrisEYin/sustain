@@ -1,6 +1,6 @@
 ---
 title: Intuition Pumps And Other Tools for Thinking
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Daniel C. Dennett
 layout: bookpost

@@ -1,6 +1,6 @@
 ---
 title: Ogilvy on Advertising
-category: books
+category: reading
 permalink: /:categories/:title/
 author: David Ogilvy
 layout: bookpost

@@ -1,6 +1,6 @@
 ---
 title: King of Capital - The Remarkable Rise, Fall, and Rise Again of Steve Schwarzman and Blackstone
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  David Morris Carey
 layout: bookpost

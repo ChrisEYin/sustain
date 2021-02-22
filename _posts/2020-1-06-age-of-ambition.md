@@ -1,6 +1,6 @@
 ---
 title: Age of Ambition - Chasing Fortune, Truth, and Faith in the New China
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Evan Osnos
 layout: bookpost

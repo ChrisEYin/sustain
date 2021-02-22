@@ -1,6 +1,6 @@
 ---
 title: American Kingpin - The Epic Hunt for the Criminal Mastermind Behind the Silk Road
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Nick Bilton
 layout: bookpost

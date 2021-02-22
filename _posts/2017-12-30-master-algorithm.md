@@ -1,6 +1,6 @@
 ---
 title: The Master Algorithm - How the Quest for the Ultimate Learning Machine Will Remake Our World
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Pedro Domingos
 layout: bookpost

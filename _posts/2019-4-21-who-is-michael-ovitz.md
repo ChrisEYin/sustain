@@ -1,6 +1,6 @@
 ---
 title: Who Is Michael Ovitz?
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Michael Ovitz
 layout: bookpost

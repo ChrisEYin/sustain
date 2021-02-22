@@ -1,6 +1,6 @@
 ---
 title: Behave - The Biology of Humans at Our Best and Worst
-category: books
+category: reading
 permalink: /:categories/:title/
 author: Robert M. Sapolsky
 layout: bookpost

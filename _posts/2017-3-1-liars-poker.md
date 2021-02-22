@@ -1,6 +1,6 @@
 ---
 title: Liar's Poker
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Michael Lewis
 layout: bookpost

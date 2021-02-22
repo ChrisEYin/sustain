@@ -1,6 +1,6 @@
 ---
 title: Slugfest - Inside the Epic 50-year Battle between Marvel and DC
-category: books
+category: reading
 permalink: /:categories/:title/
 author: Reed Tucker
 layout: bookpost

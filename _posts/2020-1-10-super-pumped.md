@@ -1,6 +1,6 @@
 ---
 title: Super Pumped - The Battle for Uber
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Mike Isaac
 layout: bookpost

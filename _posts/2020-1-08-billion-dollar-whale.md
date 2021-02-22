@@ -1,6 +1,6 @@
 ---
 title: Billion Dollar Whale - The Man Who Fooled Wall Street, Hollywood, and the World
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Tom; Hope Wright
 layout: bookpost

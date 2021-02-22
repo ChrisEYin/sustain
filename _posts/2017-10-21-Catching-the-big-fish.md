@@ -1,6 +1,6 @@
 ---
 title: Catching The Big Fish
-category: books
+category: reading
 permalink: /:categories/:title/
 author: David Lynch
 layout: bookpost

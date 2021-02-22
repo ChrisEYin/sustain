@@ -1,6 +1,6 @@
 ---
 title: Finite and Infinite Games
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  James Carse
 layout: bookpost

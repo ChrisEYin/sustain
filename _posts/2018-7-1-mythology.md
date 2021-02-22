@@ -1,6 +1,6 @@
 ---
 title: Mythology
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Edith Hamilton
 layout: bookpost

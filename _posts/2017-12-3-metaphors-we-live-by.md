@@ -1,6 +1,6 @@
 ---
 title: Metaphors We Live By
-category: books
+category: reading
 permalink: /:categories/:title/
 author: George Lakoff
 layout: bookpost

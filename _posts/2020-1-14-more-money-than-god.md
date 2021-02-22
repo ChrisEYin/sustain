@@ -1,6 +1,6 @@
 ---
 title: More Money Than God - Hedge Funds and the Making of a New Elite
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Sebastian Mallaby
 layout: bookpost

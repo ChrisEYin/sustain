@@ -1,6 +1,6 @@
 ---
 title: VC - An American History
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Tom Nicholas
 layout: bookpost

@@ -1,6 +1,6 @@
 ---
 title: Seven Brief Lessons on Physics
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Carlo Rovelli
 layout: bookpost

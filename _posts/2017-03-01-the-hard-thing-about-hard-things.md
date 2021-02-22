@@ -1,6 +1,6 @@
 ---
 title: The Hard Thing About Hard Things - Building a Business When There Are No Easy Answers
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Ben Horowitz
 layout: bookpost

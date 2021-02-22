@@ -1,6 +1,6 @@
 ---
 title: Why Taiwan Matters - Small Island, Global Powerhouse
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Shelley Rigger
 layout: bookpost

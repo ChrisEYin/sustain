@@ -1,6 +1,6 @@
 ---
 title: Infinite Powers - How Calculus Reveals the Secrets of the Universe
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Steven Strogatz
 layout: bookpost

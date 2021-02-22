@@ -1,6 +1,6 @@
 ---
 title: Masters of Doom - How Two Guys Created an Empire and Transformed Pop Culture
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  David Kushner
 layout: bookpost

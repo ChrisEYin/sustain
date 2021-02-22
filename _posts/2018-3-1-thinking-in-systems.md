@@ -1,6 +1,6 @@
 ---
 title: Thinking in Systems - A Primer
-category: books
+category: reading
 permalink: /:categories/:title/
 author:  Donella H. Meadows
 layout: bookpost
