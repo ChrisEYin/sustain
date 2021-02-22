@@ -1,6 +1,6 @@
 ---
 title: Journalism as an Analogy
-category: blog
+category: startups
 layout: post
 tags: 
  - startup

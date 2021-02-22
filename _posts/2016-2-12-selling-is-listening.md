@@ -1,6 +1,6 @@
 ---
 title: Selling is Listening
-category: blog
+category: startups
 layout: post
 tags: 
  - sales

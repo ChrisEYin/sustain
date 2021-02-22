@@ -1,6 +1,6 @@
 ---
 title: Hot Teams
-category: blog
+category: startups
 layout: post
 tags:
 - teams

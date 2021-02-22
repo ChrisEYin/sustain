@@ -1,7 +1,7 @@
 ---
 title: Play Offense
 subtitle: When you are hunting elephants, don't get distracted chasing rabbits. 
-category: blog
+category: life
 layout: post
 tags:
 - productivity

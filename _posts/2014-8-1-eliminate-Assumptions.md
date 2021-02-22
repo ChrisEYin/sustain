@@ -1,6 +1,6 @@
 ---
 title: Eliminate Assumptions
-category: blog
+category: startups
 layout: post
 tags:
 - startup

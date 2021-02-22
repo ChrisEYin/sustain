@@ -1,6 +1,6 @@
 ---
 title: The Art in Composting
-category: blog
+category: life
 layout: post
 tags: 
  - picasso

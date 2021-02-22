@@ -1,6 +1,6 @@
 ---
 title: Sharpen the Contradictions
-category: blog
+category: startups
 layout: post
 tags: 
  - management

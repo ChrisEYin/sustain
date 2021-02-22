@@ -1,6 +1,6 @@
 ---
 title: Thoughts On Scaling
-category: blog
+category: startups
 layout: post
 tags: 
  - scaling

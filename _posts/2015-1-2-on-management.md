@@ -1,6 +1,6 @@
 ---
 title: On Management
-category: blog
+category: startups
 layout: post
 tags:
  - startupschool

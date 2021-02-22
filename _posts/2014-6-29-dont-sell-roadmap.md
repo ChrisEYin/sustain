@@ -1,6 +1,6 @@
 ---
 title: Don't Sell Roadmap
-category: blog
+category: startups
 layout: post
 tags:
 - enterprise

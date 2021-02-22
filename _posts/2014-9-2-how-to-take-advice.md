@@ -1,6 +1,6 @@
 ---
 title: How To Take Advice
-category: blog
+category: life
 layout: post
 tags:
  - life

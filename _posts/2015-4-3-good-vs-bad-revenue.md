@@ -1,6 +1,6 @@
 ---
 title: Good vs. Bad Revenue
-category: blog
+category: startups
 layout: post
 tags:
  - revenue

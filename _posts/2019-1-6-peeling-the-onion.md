@@ -1,6 +1,6 @@
 ---
 title: Peeling The Onion
-category: blog
+category: life
 layout: post
 tags: 
 - ribbonfarm

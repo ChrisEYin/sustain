@@ -1,6 +1,6 @@
 ---
 title: How to Delegate
-category: blog
+category: startups
 layout: post
 tags: 
  - startupschool
